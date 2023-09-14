@@ -79,5 +79,5 @@ app.use('/', (req, res) => {
     res.send('Assignment 12 running')
 })
 app.listen(port, (req, res) => {
-    console.log(`This isfd server running on ${port}`);
+    console.log(`This server running on ${port}`);
 })
